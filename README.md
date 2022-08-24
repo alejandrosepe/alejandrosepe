@@ -1,4 +1,4 @@
-![Header](https://github.com/alejandrosepe/alejandrosepe/blob/0287a073008de880026e2bcc320f2a428e763684/fondo%20stensul.png "Header")
+![Header](https://github.com/alejandrosepe/alejandrosepe/blob/010a50b2235e6a49367596711ca3b74f6782fdbf/fondo%20stensul.png "Header")
 <h1 align="center">Hola 👋, soy Alejandro</h1>
 <h3 align="center">Estoy estudiando programación de manera autodidacta</h3>
 
