@@ -1,6 +1,7 @@
 ![Header](https://github.com/alejandrosepe/alejandrosepe/blob/e994097022d04c4c6aa649443919c49dc9a83694/fondovisualstudio.png "Header")
-<h1 align="center">Hola 👋, soy Alejandro</h1>
-<h3 align="center">Estoy estudiando programación de manera autodidacta</h3>
+<h1 align="center">Hi 👋, I'm Alexander.</h1>
+<h3 align="center">
+I am self-taught and I am studying programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandrosepe&label=Profile%20views&color=0e75b6&style=flat" alt="alejandrosepe" /> </p>
 
